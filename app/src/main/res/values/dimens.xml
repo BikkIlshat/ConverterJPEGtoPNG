@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginTop">32dp</dimen>
+    <dimen name="layout_marginBottom">32dp</dimen>
+    <dimen name="imageButtonLayout_marginTop">102dp</dimen>
+</resources>
